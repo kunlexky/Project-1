@@ -4,8 +4,10 @@
 
 `sudo apt install apache2`
 
-`sudo systemctl status apache2`
+`sudo systemctl apache2`
 
-![apache update](./images/apache-update.png)
+![Sudo update](./images/sudo-update.png)
 
-![apache status](./images/apache-status.png)
+![Apache2 Installed](./images/apache2-installed.png)
+
+![Apache Status](./images/apache-status.png)
