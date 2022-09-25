@@ -6,11 +6,18 @@
 
 `sudo systemctl apache2`
 
+`apache2 web page`
+
+
+
 ![Sudo update](./images/sudo-update.png)
 
 ![Apache2 Installed](./images/apache2-installed.png)
 
 ![Apache Status](./images/apache-status.png)
+
+![Apache web page](./images/Apache2.PNG)
+
 
 `sudo mysql`
 
