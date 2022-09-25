@@ -11,3 +11,7 @@
 ![Apache2 Installed](./images/apache2-installed.png)
 
 ![Apache Status](./images/apache-status.png)
+
+`sudo mysql`
+
+![Mysql installed](./images/sudo-mysql.png)
