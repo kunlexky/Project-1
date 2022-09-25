@@ -15,3 +15,9 @@
 `sudo mysql`
 
 ![Mysql installed](./images/sudo-mysql.png)
+
+`PHP installed`
+
+![PHP installed](./images/sudo-PHP.PNG)
+
+
