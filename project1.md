@@ -20,4 +20,14 @@
 
 ![PHP installed](./images/sudo-PHP.PNG)
 
+`Help me check if I'm right with this`
+
+![Virtual Host](./images/Virtual-Host.PNG)
+
+![Host Error](./images/Host-error.png)
+
+
+
+
+
 
